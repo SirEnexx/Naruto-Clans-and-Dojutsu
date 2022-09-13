@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: orange;
+}
+#one{
+    color: red;
+}
+#two{
+    color: white;
+}
+#three{
+    color: rgb(129, 8, 8);
+}
+img{
+    max-width: 500px;
+    max-height: 500px;
+}
+footer{
+    color: white;
+}
+#one{
+    background-color: black;
+}
+#two{
+    background-color: gray;
+}
+#three{
+    background-color: palevioletred;
+}
+a{
+    color: white;
+}
+h1{
+    color: red;
+}
